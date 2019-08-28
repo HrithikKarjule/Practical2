@@ -8,7 +8,6 @@
       int c,i,j=0,k=0,m;
       printf("Enter String \n");
       gets(s); 
-      ptr=&s[0];
       printf("Enter char upto which you want ");
     scanf("%c",&a);
       c=strlen(s);
